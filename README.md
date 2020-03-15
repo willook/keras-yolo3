@@ -6,6 +6,8 @@
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 
+## SSH
+ssh -XYC username@0.0.0.0 instead of ssh username@0.0.0.0
 
 ---
 
